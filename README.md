@@ -30,9 +30,11 @@ Spanish Accents((`/~)+letter, caps or not):
 - o= óÓ
 - u= úÚ
 - n= ñÑ
+
 Other Letters(right alt + letter, caps or not): 
 - u= üÜ
 - c= çÇ 
+
 Caps+Key: 
 - ?=¿
 - !=¡
@@ -43,6 +45,7 @@ Caps+Key:
 - ,=≤
 - .=≥
 - (arrow keys)=↑→←↓
+
 RIGHT Alt + Key: 
 - e=€
 - 8=∞
@@ -60,6 +63,7 @@ RIGHT Alt + Key:
 - ,=«
 - .=»
 - -=¯
+
 Uniques: 
 - --=—
 - ^+0-9=⁰-⁹

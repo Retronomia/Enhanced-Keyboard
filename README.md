@@ -1,5 +1,6 @@
 # Enhanced-Keyboard
 An Autohotkey script made through tons of internet searches
+
 Quick and easy symbols for classes so you don't have to remember ASCII codes
 
 ## Download Steps:

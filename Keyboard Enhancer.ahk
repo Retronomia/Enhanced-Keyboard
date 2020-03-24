@@ -141,7 +141,6 @@ return
 
 ;;; MATHEMATICAL CHARACTERS
 ;¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-
 ; ±
 CapsLock & -::
 	Send {Asc 241}

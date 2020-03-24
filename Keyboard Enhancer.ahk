@@ -19,8 +19,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;;; ACCENTED VOWELS
 ;¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-; tilde fix
-+~::~
+
 ; á/Á
 ` & a::
 	if (GetKeyState("CapsLock","t")=1){
